@@ -1,5 +1,5 @@
 # Health_MediCare_App
-SmartInternz Project Android App Development.
+Sahil Project Android App Development.
 <hr>
 # 🛒 Blinkit – Admin Panel Android App
 
