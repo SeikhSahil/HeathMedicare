@@ -37,3 +37,21 @@ A fully functional **Android Admin Panel** app inspired by Blinkit (formerly Gro
 ## 📁 Project Structure
 
 
+com.example.blinkitadminpanel/
+│
+├── auth/ # Firebase phone authentication
+├── data/ # Repositories and data sources
+├── model/ # Data models
+├── ui/
+│ ├── admin/ # Admin-specific screens
+│ ├── user/ # User-side screens
+│ └── common/ # Shared components
+├── utils/ # Helper classes, constants, extensions
+└── MainActivity.kt
+
+
+🙌 Author
+Sk Sahil
+LinkedIn | GitHub
+
+
